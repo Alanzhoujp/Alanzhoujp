@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alanzhoujp
-- 👀 I’m interested in Java, C++, MATLAB, MySQL, Unity.
+- 👀 I’m interested in Java, C, C++, MATLAB, MySQL, Unity.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m here to share my Java projects.
 - 📫 How to reach me alanzhouprogramming@gmail.com
